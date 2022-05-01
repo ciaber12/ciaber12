@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ciaber12
+- 👋 Hi, I’m @ciaber12, I'm 9
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning how to write a game in python with my dad
 
